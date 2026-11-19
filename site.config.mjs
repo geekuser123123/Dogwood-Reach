@@ -15,7 +15,7 @@
 export default {
   site: {
     url: 'https://dogwood-reach.kevin-c4h.workers.dev', // no trailing slash — confirm after first Cloudflare deploy
-    googleSiteVerification: null, // Search Console HTML-tag "content" value
+    googleSiteVerification: 'myKt8DwODyW2ZSgyMCoBO59cnf9HylanqvjDivJC1v8', // Search Console HTML-tag "content" value
     locale: 'en_US',
     language: 'en-US',
   },
